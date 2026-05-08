@@ -19,45 +19,38 @@ Trabalho no desenvolvimento de sistemas de alta performance, gerenciando desde a
   <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
-
-* **Backend:** APIs robustas e performáticas com **Go (Golang)** e **Node.js**.
-* **Data:** Modelagem eficiente com **Prisma ORM**, SQL Server e MongoDB.
-* **Frontend:** Interfaces modernas com **Next.js 15/16** e animações fluidas.
-* **Qualidade:** Foco em estabilidade através de **testes automatizados**.
 
 ---
 
 ### 🏢 Projetos de Impacto (Produção)
-> *Nota: A maior parte do meu volume de código reside em repositórios privados corporativos.*
+> *Sistemas corporativos desenvolvidos da arquitetura ao deploy.*
 
 | Projeto | Destaques Técnicos | Stack Principal |
 | :--- | :--- | :--- |
-| **S3I — Indústria** | Gestão de manutenção industrial e controle de acesso | Next.js, Zod, SQL Server |
-| **Portal de Cargas** | Logística com visualização 3D e suporte a PWA | Three.js, Express, MongoDB |
-| **CDN API** | Distribuição de arquivos e anexos em alta velocidade | **Go (Golang)**, PM2 |
+| **S3I — Indústria** | Gestão de manutenção e controle de acesso | Next.js, Zod, SQL Server |
+| **Portal de Cargas** | Logística com visualização 3D e PWA | Three.js, Express, MongoDB |
+| **CDN API** | Distribuição de arquivos em alta velocidade | **Go (Golang)**, PM2 |
 | **Atendimento** | Chat em tempo real via WebSockets | Socket.io, Next.js 16 |
 | **Frota** | Dashboards avançados e exportação de dados | Chart.js, SQL Server |
 
 ---
 
 ### 📊 Desempenho & Atividade
+*Grande parte do meu código reside em repositórios privados.*
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thecktoy&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecktoy&layout=compact&langs_count=7&theme=dark&hide_border=true&hide=html,css" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=thecktoy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <br><br>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thecktoy&layout=compact&theme=tokyonight&hide=html,css" alt="Linguagens mais usadas" />
+</div>
 
 ---
 
 ### 📬 Vamos Conversar
 <p align="left">
-  <a href="https://linkedin.com/in/keulenmaia">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:keulenmaia@cerbras.com.br">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
+  <a href="https://linkedin.com/in/keulenmaia"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:keulenmaia@cerbras.com.br"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
