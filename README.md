@@ -30,6 +30,7 @@ Trabalho no desenvolvimento de sistemas de alta performance, gerenciando desde a
 
 | Projeto | Destaques Técnicos | Stack Principal |
 | :--- | :--- | :--- |
+| **Portal de Vendas** | E-commerce interno para geração e gestão de pedidos | Next.js, Express, MongoDB |
 | **S3I — Indústria** | Gestão de manutenção e controle de acesso | Next.js, Zod, SQL Server |
 | **Portal de Cargas** | Logística com visualização 3D e PWA | Three.js, Express, MongoDB |
 | **CDN API** | Distribuição de arquivos em alta velocidade | **Go (Golang)**, PM2 |
