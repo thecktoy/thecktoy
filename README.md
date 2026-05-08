@@ -1,70 +1,49 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Keulen%20Maia&fontSize=70&animation=fadeIn" width="100%" />
-
-  <p>
-    <b>Desenvolvedor Full Stack Pleno</b> | Especialista em Arquiteturas Escaláveis
-  </p>
-
-  <p>
-    <a href="#-sobre-mim">Sobre Mim</a> • 
-    <a href="#-tecnologias">Tech Stack</a> • 
-    <a href="#-projetos">Projetos</a> • 
-    <a href="#-contato">Contato</a>
-  </p>
+  <h1>Keulen Maia</h1>
+  <p><b>Desenvolvedor Full Stack Pleno | Node.js • Go • TypeScript</b></p>
+  <p>Especialista em soluções escaláveis para os setores Industrial e Comercial</p>
 </div>
 
 ---
 
-<div align="center">
-  <h2 id="-sobre-mim">🚀 Sobre Mim</h2>
-</div>
-
-Construo soluções *end-to-end* robustas e escaláveis, focadas em resolver problemas reais dos setores industrial e comercial. Atualmente, gerencio arquiteturas modernas, APIs de alta performance e portais corporativos complexos, cobrindo desde a modelagem de dados até a interface final.
-
-**Minha filosofia de desenvolvimento:** Clareza, performance e manutenibilidade.
+### 🚀 Sobre Mim
+Trabalho no desenvolvimento de sistemas de alta performance, gerenciando desde a arquitetura do banco de dados até a entrega final no frontend. Atualmente, foco na criação de portais corporativos complexos, sistemas de manutenção industrial e APIs de distribuição de arquivos (CDN).
 
 ---
 
-<div align="center">
-  <h2 id="-tecnologias">🛠️ Tech Stack & Especialidades</h2>
-</div>
+### 🛠️ Tech Stack Principal
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,ts,go,nextjs,react,tailwind,prisma,mssql,mongodb&perline=9" />
+<p align="left">
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
-* **Backend:** APIs de alta disponibilidade com **Node.js (TypeScript)** e **Go (Golang)**.
-* **Banco de Dados:** Modelagem eficiente com **Prisma ORM**, **SQL Server** e **MongoDB**.
-* **Frontend:** Experiência avançada em **Next.js 15/16** e animações fluidas com **Framer Motion**.
-* **Metodologias:** Foco em qualidade de código através de **testes automatizados**.
+* **Backend:** APIs robustas e performáticas com **Go (Golang)** e **Node.js**.
+* **Data:** Modelagem eficiente com **Prisma ORM**, SQL Server e MongoDB.
+* **Frontend:** Interfaces modernas com **Next.js 15/16** e animações fluidas.
+* **Qualidade:** Foco em estabilidade através de **testes automatizados**.
 
 ---
 
-<div align="center">
-  <h2 id="-projetos">🏢 Projetos de Impacto em Produção</h2>
-  <p><i>Sistemas corporativos desenvolvidos da arquitetura ao deploy.</i></p>
-</div>
-
-<br>
-
-<div align="center">
+### 🏢 Projetos de Impacto (Produção)
+> *Nota: A maior parte do meu volume de código reside em repositórios privados corporativos.*
 
 | Projeto | Destaques Técnicos | Stack Principal |
 | :--- | :--- | :--- |
-| **S3I — Indústria** | Gestão de manutenção industrial e controle de acesso | Next.js 15, Zod, Express, SQL Server |
-| **Portal de Cargas** | Logística com Globo 3D e suporte a PWA | Three.js, Express, MongoDB, PWA |
-| **Frota Corporativa** | Dashboards, gráficos avançados e exportação de dados | Next.js 15, Chart.js, Express, SQL Server |
-| **Atendimento Real-time** | Comunicação via WebSockets e filas de atendimento | Socket.io, Framer Motion, Next.js 16 |
+| **S3I — Indústria** | Gestão de manutenção industrial e controle de acesso | Next.js, Zod, SQL Server |
+| **Portal de Cargas** | Logística com visualização 3D e suporte a PWA | Three.js, Express, MongoDB |
 | **CDN API** | Distribuição de arquivos e anexos em alta velocidade | **Go (Golang)**, PM2 |
-
-</div>
+| **Atendimento** | Chat em tempo real via WebSockets | Socket.io, Next.js 16 |
+| **Frota** | Dashboards avançados e exportação de dados | Chart.js, SQL Server |
 
 ---
 
-<div align="center">
-  <h2 id="-desempenho">📊 Desempenho & Atividade</h2>
-  <p><i>Grande parte do meu código reside em repositórios privados da empresa.</i></p>
-</div>
+### 📊 Desempenho & Atividade
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thecktoy&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" />
@@ -73,15 +52,12 @@ Construo soluções *end-to-end* robustas e escaláveis, focadas em resolver pro
 
 ---
 
-<div align="center">
-  <h2 id="-contato">📬 Vamos Conversar</h2>
-</div>
-
-<div align="center">
+### 📬 Vamos Conversar
+<p align="left">
   <a href="https://linkedin.com/in/keulenmaia">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:keulenmaia@cerbras.com.br">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-</div>
+</p>
