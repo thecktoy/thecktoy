@@ -45,7 +45,7 @@ Trabalho no desenvolvimento de sistemas de alta performance, gerenciando desde a
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=thecktoy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
   <br><br>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thecktoy&layout=compact&theme=tokyonight&hide=html,css" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thecktoy&layout=compact&theme=tokyonight&hide=html,css,json" alt="Linguagens mais usadas" />
 </div>
 
 ---
