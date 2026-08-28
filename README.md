@@ -131,47 +131,14 @@ Desenvolvedor **Full Stack Pleno** especializado em **integrações críticas e 
 
 <br>
 
-<!-- ══════════════════ STATS ══════════════════ -->
+<!-- ══════════════════ ATIVIDADE ══════════════════ -->
 
 ## 📊 Desempenho & Atividade
 
 <p><i>Grande parte do meu código reside em repositórios privados.</i></p>
 
-<!--
-  ┌──────────────────────────────────────────────────────────────────────┐
-  │  ESTES DOIS CARDS SÓ CARREGAM APÓS O SEU DEPLOY PRÓPRIO NO VERCEL.     │
-  │  Troque "SEU-DEPLOY.vercel.app" pelo domínio do seu deploy do         │
-  │  github-readme-stats (com a env var PAT_1). Só assim o                 │
-  │  count_private=true conta os repositórios privados.                    │
-  │                                                                        │
-  │  QUER VER RENDERIZANDO AGORA (sem deploy)? Comente as 2 linhas abaixo  │
-  │  e descomente o bloco "FALLBACK PÚBLICO" logo em seguida — atenção:    │
-  │  a instância pública NÃO conta repositórios privados.                  │
-  └──────────────────────────────────────────────────────────────────────┘
--->
-
-<div align="center">
-  <img height="180em" src="https://SEU-DEPLOY.vercel.app/api?username=thecktoy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://SEU-DEPLOY.vercel.app/api/top-langs/?username=thecktoy&layout=compact&theme=tokyonight&hide=html,css,json&hide_border=true&bg_color=1a1b27" alt="Linguagens mais usadas" />
-</div>
-
-<!-- ══════ FALLBACK PÚBLICO (renderiza na hora, mas NÃO conta privados) ══════
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thecktoy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecktoy&layout=compact&theme=tokyonight&hide=html,css,json&hide_border=true&bg_color=1a1b27" alt="Linguagens mais usadas" />
-</div>
--->
-
-<br>
-
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=thecktoy&theme=tokyonight&hide_border=true&background=1a1b27" alt="Streak" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thecktoy&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Troféus" />
 </div>
 
 <br>
@@ -183,9 +150,6 @@ Desenvolvedor **Full Stack Pleno** especializado em **integrações críticas e 
 <p align="left">
   <a href="https://linkedin.com/in/keulenmaia">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:keulensilva17@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/thecktoy">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
