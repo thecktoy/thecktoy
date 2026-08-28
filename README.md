@@ -23,7 +23,7 @@
 Desenvolvedor **Full Stack Pleno** especializado em **integrações críticas e automação de processos** entre sistemas corporativos e o **ERP TOTVS RM (CORPORE)**. Atuo de ponta a ponta — do banco de dados à interface — construindo soluções que sustentam a operação de toda a empresa em produção.
 
 > 🔹 Minha força está na **camada de dados e nas integrações**, onde ficam os cenários mais críticos.
-> 🔹 Atuo como **referência técnica do time**, resolvendo incidentes em produção e apoiando os devs mais novos.
+> 🔹 Atuo como **referência técnica do time**: resolvo incidentes em produção e **oriento os desenvolvedores mais novos** (júnior, estagiário e auxiliar).
 > 🔹 Aprofundo **IA aplicada à Engenharia de Software** em pós-graduação em andamento.
 
 <br>
@@ -35,6 +35,7 @@ Desenvolvedor **Full Stack Pleno** especializado em **integrações críticas e 
 ▸ Otimização de queries e procedures em SQL Server
 ▸ Arquitetura de APIs e sistemas full stack em produção
 ▸ Modelagem de dados (SQL Server / MongoDB) conforme o caso de uso
+▸ Mentoria técnica e suporte aos desenvolvedores mais novos do time
 ```
 
 <br>
@@ -137,11 +138,16 @@ Desenvolvedor **Full Stack Pleno** especializado em **integrações críticas e 
 <p><i>Grande parte do meu código reside em repositórios privados.</i></p>
 
 <!--
-  ┌─────────────────────────────────────────────────────────────┐
-  │  IMPORTANTE: troque "SEU-DEPLOY.vercel.app" pelo domínio do  │
-  │  SEU deploy do github-readme-stats no Vercel (com o PAT_1).  │
-  │  Só assim o count_private=true conta os repos privados.      │
-  └─────────────────────────────────────────────────────────────┘
+  ┌──────────────────────────────────────────────────────────────────────┐
+  │  ESTES DOIS CARDS SÓ CARREGAM APÓS O SEU DEPLOY PRÓPRIO NO VERCEL.     │
+  │  Troque "SEU-DEPLOY.vercel.app" pelo domínio do seu deploy do         │
+  │  github-readme-stats (com a env var PAT_1). Só assim o                 │
+  │  count_private=true conta os repositórios privados.                    │
+  │                                                                        │
+  │  QUER VER RENDERIZANDO AGORA (sem deploy)? Comente as 2 linhas abaixo  │
+  │  e descomente o bloco "FALLBACK PÚBLICO" logo em seguida — atenção:    │
+  │  a instância pública NÃO conta repositórios privados.                  │
+  └──────────────────────────────────────────────────────────────────────┘
 -->
 
 <div align="center">
@@ -149,10 +155,17 @@ Desenvolvedor **Full Stack Pleno** especializado em **integrações críticas e 
   <img height="180em" src="https://SEU-DEPLOY.vercel.app/api/top-langs/?username=thecktoy&layout=compact&theme=tokyonight&hide=html,css,json&hide_border=true&bg_color=1a1b27" alt="Linguagens mais usadas" />
 </div>
 
+<!-- ══════ FALLBACK PÚBLICO (renderiza na hora, mas NÃO conta privados) ══════
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thecktoy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecktoy&layout=compact&theme=tokyonight&hide=html,css,json&hide_border=true&bg_color=1a1b27" alt="Linguagens mais usadas" />
+</div>
+-->
+
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thecktoy&theme=tokyonight&hide_border=true&background=1a1b27" alt="Streak" />
+  <img src="https://streak-stats.demolab.com/?user=thecktoy&theme=tokyonight&hide_border=true&background=1a1b27" alt="Streak" />
 </div>
 
 <br>
